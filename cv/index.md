@@ -7,7 +7,7 @@ layout: cv
 
 
 <br><br>
-#### Education
+### Education
 
 - **University of California, Berkeley** -- Doctor of Philosophy (Ph.D.), German Literature and Medieval Studies, 2014 -
 
@@ -23,7 +23,7 @@ layout: cv
 
 
 <br><br>
-#### Experience
+### Experience
 
 - D-Lab Workshop Instructor, Consultant (Python) at UC Berkeley -- January 2016 - Present
 
@@ -55,7 +55,7 @@ Massachusetts Amherst -- September 2012 - May 2013
 
 
 <br><br>
-#### Languages
+### Languages
 
 - English (Native)
 - German (Fluent)
@@ -69,7 +69,7 @@ Massachusetts Amherst -- September 2012 - May 2013
 
 
 <br><br>
-#### Skills & Expertise
+### Skills & Expertise
 - Python
 - WordPress
 - Subtitling
@@ -82,7 +82,7 @@ Massachusetts Amherst -- September 2012 - May 2013
 
 
 <br><br>
-#### Publications
+### Publications
 
 - Newsreel 1956/29, A US Agent in the GDR (1956). In: For Eyes Only – Top Secret (For Eyes Only –
 Streng Geheim) (2013). Translation and subtitles. Amherst, MA: DEFA Film Library, 2013.
