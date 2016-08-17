@@ -70,11 +70,11 @@ Massachusetts Amherst -- September 2012 - May 2013
 
 <br><br>
 ### Skills & Expertise
+
 - Python
+- R
 - WordPress
 - Subtitling
-- R
-- Stata
 - LaTeX
 - QuickBooks
 - Unix
