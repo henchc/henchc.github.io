@@ -1,4 +1,4 @@
-# Code for my website [chrishench.com](chrishench.com)
+## Code for my website [chrishench.com](chrishench.com)
 Design template by getmicah.github.io
 
 ### License
