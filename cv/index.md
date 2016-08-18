@@ -3,7 +3,8 @@ layout: cv
 ---
 
 # Christopher Hench
-**PhD Candidate, University of California, Berkeley**
+**PhD Candidate, University of California, Berkeley** <br>
+German and Medieval Studies
 
 
 <br><br>
@@ -28,6 +29,8 @@ layout: cv
 - D-Lab Workshop Instructor, Consultant (Python) at UC Berkeley -- January 2016 - Present
 
 - GSI (German) at UC Berkeley -- August 2015 - Present
+
+- Graduate Student Assistant for Medieval Studies at UC Berkeley -- June 2015 - Present
 
 - Webmaster (German Department) at UC Berkeley -- September 2014 - Present
 
@@ -60,11 +63,12 @@ Massachusetts Amherst -- September 2012 - May 2013
 - English (Native)
 - German (Fluent)
 - Swedish (Intermediate)
-- Latin
-- Norse, Old
-- German, Middle High (ca.1050-1500)
-- German, Old High (ca.750-1050)
-- French (Elementary)
+- Dutch (Reading)
+- French (Reading)
+- Latin (Reading)
+- Old Norse (Reading)
+- Middle High German (ca.1050-1500) (Reading)
+- Old High German (ca.750-1050) (Reading)
 
 
 
@@ -84,64 +88,64 @@ Massachusetts Amherst -- September 2012 - May 2013
 <br><br>
 ### Publications
 
-- Newsreel 1956/29, A US Agent in the GDR (1956). In: For Eyes Only – Top Secret (For Eyes Only –
-Streng Geheim) (2013). Translation and subtitles. Amherst, MA: DEFA Film Library, 2013.
+- With Estes, Alex. “[Supervised Machine Learning for Hybrid Meter](http://www.aclweb.org/anthology/W/W16/W16-0201.pdf).”
+Proceedings of the Fifth Workshop on Computational Linguistics for Literature, NAACL-HLT 2016, 2016, 1.
 
-- With Betheney Moore Roberts, Marriage in the Shadows (Ehe im Schatten) (1947). Translation and
-subtitles. Amherst, MA: DEFA Film Library, 2013.
+- Lothar Warneke on His Film (1999). Translation and subtitles. In: Unser Kurzes Leben (Our Short Life)
+(1980). Amherst, MA: DEFA Film Library, 2015.
 
-- Director Roland Gräf and Film Historian Michael Hanisch in Conversation (2001). Translation and
-subtitles. In: The Tango Player (Der Tangospieler) (1990). Amherst, MA: DEFA Film Library, 2013.
+- Dorgerloh, Annette. “Designing Meaningful Spaces: Alfred Hirschmeier’s Scenography for Our Short
+Life.” In: Our Short Life. Translation. Amherst, MA: DEFA Film Library, 2015.
 
-- Professor Mamlock (1960). Translation and subtitles. Amherst, MA: DEFA Film Library, 2013.
+- Elective Affinities (Die Wahlverwandtschaften) (1973). Translation and subtitles. Amherst, MA: DEFA
+Film Library, 2015.
+
+- Bariet, Barbara. “Censored: The Lost Angel.” In: The Lost Angel. Translation. Amherst, MA: DEFA
+Film Library, 2014.
+
+- Dorgerloh, Annette. “Without Is Within: The Scenography of The Lost Angel.” Translation. Amherst,
+MA: DEFA Film Library, 2014.
+
+- The Lost Angel (Der verlorene Engel) (1966/71). Translation and subtitles. Amherst, MA: DEFA Film
+Library, 2014.
+
+- Ciesla, Burghard. “Stalin’s Trophy Art: Before and After 1945.” In: Five Days Five Nights. Translation.
+Amherst, MA: DEFA Film Library, 2014.
+
+- Five Days Five Nights (Fünf Tage Fünf Nächte) (1966/71). Translation and subtitles. Amherst, MA:
+DEFA Film Library, 2014.
+
+- The Actress (Die Schauspielerin) (1988). Translation and subtitles. Amherst, MA: DEFA Film Library,
+2014.
+
+- Traces (Spuren) (1989). In: The Actress. Translation and subtitles. Amherst, MA: DEFA Film Library,
+2014.
+
+- Beethoven – Days in a Life (Beethoven – Tage aus einem Leben) (1976). In: Beethoven Duet. Translation
+and subtitles. Amherst, MA: DEFA Film Library, 2014.
+
+- Ludwig van Beethoven (1954). In: Beethoven Duet. Translation and subtitles. Amherst, MA: DEFA Film
+Library, 2014.
+
+- Coded Message for the Boss (Chiffriert an Chef – Ausfall Nr. 5) (1964). Translation and subtitles.
+Amherst, MA: DEFA Film Library, 2014
+
+- The Flying Dutchman (Der Fliegende Holländer) (1964). Translation and subtitles. Amherst, MA: DEFA
+Film Library, 2013.
 
 - Musicologist Kristel Pappel-Herz in Conversation with Film Historian Ralf Schenk (2013). Translation
 and subtitles. In: The Flying Dutchman (Der Fliegende Holländer) (1964). Amherst, MA: DEFA Film
 Library, 2013.
 
-- The Flying Dutchman (Der Fliegende Holländer) (1964). Translation and subtitles. Amherst, MA: DEFA
-Film Library, 2013.
+- Professor Mamlock (1960). Translation and subtitles. Amherst, MA: DEFA Film Library, 2013.
 
-- Coded Message for the Boss (Chiffriert an Chef – Ausfall Nr. 5) (1964). Translation and subtitles.
-Amherst, MA: DEFA Film Library, 2014
+- Director Roland Gräf and Film Historian Michael Hanisch in Conversation (2001). Translation and
+subtitles. In: The Tango Player (Der Tangospieler) (1990). Amherst, MA: DEFA Film Library, 2013.
 
-- Ludwig van Beethoven (1954). In: Beethoven Duet. Translation and subtitles. Amherst, MA: DEFA Film
-Library, 2014.
+- With Betheney Moore Roberts, Marriage in the Shadows (Ehe im Schatten) (1947). Translation and
+subtitles. Amherst, MA: DEFA Film Library, 2013.
 
-- Beethoven – Days in a Life (Beethoven – Tage aus einem Leben) (1976). In: Beethoven Duet. Translation
-and subtitles. Amherst, MA: DEFA Film Library, 2014.
+- Newsreel 1956/29, A US Agent in the GDR (1956). In: For Eyes Only – Top Secret (For Eyes Only –
+Streng Geheim) (2013). Translation and subtitles. Amherst, MA: DEFA Film Library, 2013.
 
-- Traces (Spuren) (1989). In: The Actress. Translation and subtitles. Amherst, MA: DEFA Film Library,
-2014.
-
-- The Actress (Die Schauspielerin) (1988). Translation and subtitles. Amherst, MA: DEFA Film Library,
-2014.
-
-- Five Days Five Nights (Fünf Tage Fünf Nächte) (1966/71). Translation and subtitles. Amherst, MA:
-DEFA Film Library, 2014.
-
-- Ciesla, Burghard. “Stalin’s Trophy Art: Before and After 1945.” In: Five Days Five Nights. Translation.
-Amherst, MA: DEFA Film Library, 2014.
-
-- The Lost Angel (Der verlorene Engel) (1966/71). Translation and subtitles. Amherst, MA: DEFA Film
-Library, 2014.
-
-- Dorgerloh, Annette. “Without Is Within: The Scenography of The Lost Angel.” Translation. Amherst,
-MA: DEFA Film Library, 2014.
-
-- Bariet, Barbara. “Censored: The Lost Angel.” In: The Lost Angel. Translation. Amherst, MA: DEFA
-Film Library, 2014.
-
-- Elective Affinities (Die Wahlverwandtschaften) (1973). Translation and subtitles. Amherst, MA: DEFA
-Film Library, 2015.
-
-- Dorgerloh, Annette. “Designing Meaningful Spaces: Alfred Hirschmeier’s Scenography for Our Short
-Life.” In: Our Short Life. Translation. Amherst, MA: DEFA Film Library, 2015.
-Page5
-
-- Lothar Warneke on His Film (1999). Translation and subtitles. In: Unser Kurzes Leben (Our Short Life)
-(1980). Amherst, MA: DEFA Film Library, 2015.
-
-- Estes, Alex, and Christopher Hench. “[Supervised Machine Learning for Hybrid Meter](http://www.aclweb.org/anthology/W/W16/W16-0201.pdf).”
-Proceedings of the Fifth Workshop on Computational Linguistics for Literature, NAACL-HLT 2016, 2016, 1.
-
+- "[Kafka's Jewish Languages:  The Hidden Openness of Tradition](http://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1051&context=edge)," EDGE - A Graduate Journal for German and Scandinavian Studies: Vol. 3: Iss. 1, Article 6.
