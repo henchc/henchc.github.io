@@ -112,7 +112,7 @@ Library, 2014.
 - Ciesla, Burghard. “Stalin’s Trophy Art: Before and After 1945.” In: Five Days Five Nights. Translation.
 Amherst, MA: DEFA Film Library, 2014.
 
-- Five Days Five Nights (Fünf Tage Fünf Nächte) (1966/71). Translation and subtitles. Amherst, MA:
+- Five Days Five Nights (Fünf Tage Fünf Nächte) (1966/71). Translation and subtitles. Amherst, MA:
 DEFA Film Library, 2014.
 
 - The Actress (Die Schauspielerin) (1988). Translation and subtitles. Amherst, MA: DEFA Film Library,
