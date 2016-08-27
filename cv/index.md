@@ -149,3 +149,20 @@ subtitles. Amherst, MA: DEFA Film Library, 2013.
 Streng Geheim) (2013). Translation and subtitles. Amherst, MA: DEFA Film Library, 2013.
 
 - "[Kafka's Jewish Languages:  The Hidden Openness of Tradition](http://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1051&context=edge)," EDGE - A Graduate Journal for German and Scandinavian Studies: Vol. 3: Iss. 1, Article 6.
+
+
+
+<br><br>
+### Presentations
+
+- "Klanglandschaften im Minnesang: Silbentrennung als Werkzeug zur Literaturanalyse." Universität Stuttgart. Stuttgart, Germany. 30 June 2016.
+
+- "Rethinking the Middle High German Syllable." Berkeley Germanic Linguistics Roundtable. Berkeley, California. 2 April 2016.
+
+- "Text Analysis Beyond the Word." DH at Berkeley Working Group. Berkeley, California. 12 February 2016.
+
+- "Static and Dynamic Representations of Language Barriers in MHG Epics." Barriers. Berkeley, California. 1 March 2015.
+
+- "(S)electing the Grail King." Medieval and Renaissance Forum. Plymouth, New Hampshire. 26 April 2014.
+
+
