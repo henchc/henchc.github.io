@@ -157,6 +157,8 @@ Streng Geheim) (2013). Translation and subtitles. Amherst, MA: DEFA Film Library
 
 - "Klanglandschaften im Minnesang: Silbentrennung als Werkzeug zur Literaturanalyse." Universität Stuttgart. Stuttgart, Germany. 30 June 2016.
 
+- "The Value of the Body in Exchange." 51st International Congress on Medieval Studies. Kalamazoo, Michigan. 14 May 2016.
+
 - "Rethinking the Middle High German Syllable." Berkeley Germanic Linguistics Roundtable. Berkeley, California. 2 April 2016.
 
 - "Text Analysis Beyond the Word." DH at Berkeley Working Group. Berkeley, California. 12 February 2016.
