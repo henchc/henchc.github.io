@@ -22,11 +22,27 @@ German and Medieval Studies
 
 - **Middlebury College Language Schools** -- German Studies, 2009 - 2009
 
+<br><br>
+### Awards
+
+- DAAD Research Grant, 2016 (changed to 2017)
+
+- Digital Humanities Fellow, 2015
+
+- Institute for European Studies Fellow, 2014 - 2015
+
+- Max Kade Fellow (UC Berkeley), 2014 - 2015
+
+- Fulbright ETA Fellowship, 2011 - 2012
+
+- Highest Honors on German Senior Thesis, Middlebury College, 2011
+
+- Johannes Gutenberg-Universität Mainz, Middlebury College Scholarship, 2009 - 2010
 
 <br><br>
 ### Experience
 
-- D-Lab Workshop Instructor, Consultant (Python) at UC Berkeley -- January 2016 - Present
+- D-Lab Workshop Instructor and Consultant (Python) at UC Berkeley -- January 2016 - Present
 
 - GSI (German) at UC Berkeley -- August 2015 - Present
 
