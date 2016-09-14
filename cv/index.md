@@ -27,9 +27,9 @@ German and Medieval Studies
 
 - DAAD Research Grant, 2016 (changed to 2017)
 
-- Digital Humanities Fellow, 2015
+- Digital Humanities Fellow (UC Berkeley), 2015
 
-- Institute for European Studies Fellow, 2014 - 2015
+- Institute for European Studies Fellow (UC Berkeley), 2014 - 2015
 
 - Max Kade Fellow (UC Berkeley), 2014 - 2015
 
@@ -42,7 +42,7 @@ German and Medieval Studies
 <br><br>
 ### Experience
 
-- D-Lab Workshop Instructor and Consultant (Python) at UC Berkeley -- January 2016 - Present
+- D-Lab, Python Lead Instructor and Consultant at UC Berkeley -- January 2016 - Present
 
 - GSI (German) at UC Berkeley -- August 2015 - Present
 
