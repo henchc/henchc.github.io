@@ -104,6 +104,12 @@ Massachusetts Amherst -- September 2012 - May 2013
 <br><br>
 ### Publications
 
+- Just Married (Grüne Hochzeit) (1988). Translation and subtitles. Amherst, MA:
+DEFA Film Library, 2016.
+
+- With Katrin Bahr, Swan Island (Insel der Schwäne) (1982). Translation and subtitles. Amherst, MA:
+DEFA Film Library, 2016.
+
 - With Estes, Alex. “[Supervised Machine Learning for Hybrid Meter](http://www.aclweb.org/anthology/W/W16/W16-0201.pdf).”
 Proceedings of the Fifth Workshop on Computational Linguistics for Literature, NAACL-HLT 2016, 2016, 1.
 
