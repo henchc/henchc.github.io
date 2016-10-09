@@ -113,6 +113,22 @@ DEFA Film Library, 2016.
 - With Estes, Alex. “[Supervised Machine Learning for Hybrid Meter](http://www.aclweb.org/anthology/W/W16/W16-0201.pdf).”
 Proceedings of the Fifth Workshop on Computational Linguistics for Literature, NAACL-HLT 2016, 2016, 1.
 
+- Arnold Zweig (1962). Translation and subtitles. In: Arts in Exile. Amherst, MA: DEFA Film Library, 2015.
+
+- Erich Fried: The Whole Word Should Endure (1988). Translation and subtitles. In: Arts in Exile. Amherst, MA: DEFA Film Library, 2015.
+
+- Even Today He’d Speak His Mind (1975). Translation and subtitles. In: Arts in Exile. Amherst, MA: DEFA Film Library, 2015.
+
+- Leo Haas: Artist and Witness of His Times (1971). Translation and subtitles. In: Arts in Exile. Amherst, MA: DEFA Film Library, 2015.
+
+- Malik (1967). Translation and subtitles. In: Arts in Exile. Amherst, MA: DEFA Film Library, 2015.
+
+- Do You Know Where Herr Kisch Is? (1985). Translation and subtitles. In: Arts in Exile. Amherst, MA: DEFA Film Library, 2015.
+
+- Traces (1989). Translation and subtitles. In: Arts in Exile. Amherst, MA: DEFA Film Library, 2015.
+
+- Walter Ballhause: One Among Millions (1982). Translation and subtitles. In: Arts in Exile. Amherst, MA: DEFA Film Library, 2015.
+
 - Lothar Warneke on His Film (1999). Translation and subtitles. In: Unser Kurzes Leben (Our Short Life)
 (1980). Amherst, MA: DEFA Film Library, 2015.
 
