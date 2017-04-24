@@ -25,7 +25,9 @@ German and Medieval Studies
 <br><br>
 ### Awards
 
-- DAAD Research Grant, 2016 (changed to 2017)
+- DAAD Research Grant, Summer 2017
+
+- Graduate Division Summer Grant, Summer 2016
 
 - Digital Humanities Fellow (UC Berkeley), 2015
 
@@ -41,6 +43,8 @@ German and Medieval Studies
 
 <br><br>
 ### Experience
+
+- Digital Humanities at Berkeley, Program Development Lead -- January 2017 - Present
 
 - D-Lab, Python Lead Instructor and Consultant at UC Berkeley -- January 2016 - Present
 
@@ -103,6 +107,8 @@ Massachusetts Amherst -- September 2012 - May 2013
 
 <br><br>
 ### Publications
+
+- (forthcoming) "Alienated Bodies and the lîp/wîp Connection." International Journal for Germanic Linguistics and Semiotics, Fall 2016, vol. 2, 2016.
 
 - Just Married (Grüne Hochzeit) (1988). Translation and subtitles. Amherst, MA:
 DEFA Film Library, 2016.
@@ -192,6 +198,8 @@ Streng Geheim) (2013). Translation and subtitles. Amherst, MA: DEFA Film Library
 
 <br><br>
 ### Presentations
+
+- (long paper accepted) "Prosodic Clustering via Cosine Similarity of Sound Sequence Inventories." DH 2017. Montreal. August 2017.
 
 - "Klanglandschaften im Minnesang: Silbentrennung als Werkzeug zur Literaturanalyse." Universität Stuttgart. Stuttgart, Germany. 30 June 2016.
 
