@@ -50,7 +50,7 @@ German and Medieval Studies
 
 - Digital Humanities at Berkeley, Program Development Lead -- January 2017 - Present
 
-- D-Lab at UC Berkeley, Python Lead Instructor and Consultant -- January 2016 - Present
+- D-Lab at Berkeley, Python Lead Instructor and Consultant -- January 2016 - Present
 
 - Graduate Student Assistant for Medieval Studies at UC Berkeley -- June 2015 - Present
 
