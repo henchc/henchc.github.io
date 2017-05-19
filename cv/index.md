@@ -27,7 +27,11 @@ German and Medieval Studies
 
 - DAAD Research Grant, Summer 2017
 
-- Graduate Division Summer Grant, Summer 2016
+- Max Kade Travel Grant, Summer 2016, 2017
+
+- Graduate Division Summer Grant (UC Berkeley), Summer 2016
+
+- Graduate Assembly Travel Grant (UC Berkeley), Summer 2016
 
 - Digital Humanities Fellow (UC Berkeley), 2015
 
@@ -46,15 +50,15 @@ German and Medieval Studies
 
 - Digital Humanities at Berkeley, Program Development Lead -- January 2017 - Present
 
-- D-Lab, Python Lead Instructor and Consultant at UC Berkeley -- January 2016 - Present
-
-- GSI (German) at UC Berkeley -- August 2015 - Present
+- D-Lab at UC Berkeley, Python Lead Instructor and Consultant -- January 2016 - Present
 
 - Graduate Student Assistant for Medieval Studies at UC Berkeley -- June 2015 - Present
 
 - Webmaster (German Department) at UC Berkeley -- September 2014 - Present
 
 - Translator/Film Subtitler at Freelance -- May 2014 - Present
+
+- Graduate Student Instructor (German) at UC Berkeley -- August 2015 - May 2017
 
 - Program Assistant to the DEFA Film Library at University of Massachusetts
 Amherst -- May 2013 - May 2014
@@ -87,8 +91,8 @@ Massachusetts Amherst -- September 2012 - May 2013
 - French (Reading)
 - Latin (Reading)
 - Old Norse (Reading)
-- Middle High German (ca.1050-1500) (Reading)
-- Old High German (ca.750-1050) (Reading)
+- Middle High German (ca. 1050-1500) (Reading)
+- Old High German (ca. 750-1050) (Reading)
 
 
 
@@ -97,11 +101,14 @@ Massachusetts Amherst -- September 2012 - May 2013
 
 - Python
 - R
+- Git
+- Bash
+- Stata
+- HTML/CSS
+- JavaScript
 - WordPress
-- Subtitling
-- LaTeX
+- Subtitling (Annotation Edit, Aegisub)
 - QuickBooks
-- Unix
 
 
 
