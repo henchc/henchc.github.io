@@ -208,7 +208,7 @@ Streng Geheim) (2013). Translation and subtitles. Amherst, MA: DEFA Film Library
 
 - (long paper accepted) "Prosodic Clustering via Cosine Similarity of Sound Sequence Inventories." DH 2017. Montreal. August 2017.
 
-- "distant-reading den Zusammenhang zwischen Form und Inhalt in der mittelhochdeutschen Dichtung." Universität Stuttgart. Stuttgart, Germany. 13. June 2017.
+- ["distant-reading den Zusammenhang zwischen Form und Inhalt in der mittelhochdeutschen Dichtung."](files/hench-stuttgart-2017.pdf) Universität Stuttgart. Stuttgart, Germany. 13. June 2017.
 
 - "Klanglandschaften im Minnesang: Silbentrennung als Werkzeug zur Literaturanalyse." Universität Stuttgart. Stuttgart, Germany. 30 June 2016.
 
