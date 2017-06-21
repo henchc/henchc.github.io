@@ -210,15 +210,15 @@ Streng Geheim) (2013). Translation and subtitles. Amherst, MA: DEFA Film Library
 
 - ["distant-reading den Zusammenhang zwischen Form und Inhalt in der mittelhochdeutschen Dichtung."](files/hench-stuttgart-2017.pdf) Universität Stuttgart. Stuttgart, Germany. 13. June 2017.
 
-- "Klanglandschaften im Minnesang: Silbentrennung als Werkzeug zur Literaturanalyse." Universität Stuttgart. Stuttgart, Germany. 30 June 2016.
+- ["Klanglandschaften im Minnesang: Silbentrennung als Werkzeug zur Literaturanalyse."](files/hench-stuttgart-2016.pdf) Universität Stuttgart. Stuttgart, Germany. 30 June 2016.
 
 - "The Value of the Body in Exchange." 51st International Congress on Medieval Studies. Kalamazoo, Michigan. 14 May 2016.
 
-- "An Approach to the Sound of Minnesang." International Graduate Colloquium on Medieval German Studies. Princeton, New Jersey. 15 April 2016.
+- ["An Approach to the Sound of Minnesang."](files/hench-princeton-2016.pdf) International Graduate Colloquium on Medieval German Studies. Princeton, New Jersey. 15 April 2016.
 
-- "Rethinking the Middle High German Syllable." Berkeley Germanic Linguistics Roundtable. Berkeley, California. 2 April 2016.
+- ["Rethinking the Middle High German Syllable."](files/estes-hench-round-table-2016.pdf) Berkeley Germanic Linguistics Roundtable. Berkeley, California. 2 April 2016.
 
-- "Text Analysis Beyond the Word." DH at Berkeley Working Group. Berkeley, California. 12 February 2016.
+- ["Text Analysis Beyond the Word."](files/estes-hench-dh-2016.pdf) DH at Berkeley Working Group. Berkeley, California. 12 February 2016.
 
 - "Static and Dynamic Representations of Language Barriers in MHG Epics." Barriers. Berkeley, California. 1 March 2015.
 
