@@ -208,6 +208,10 @@ Streng Geheim) (2013). Translation and subtitles. Amherst, MA: DEFA Film Library
 
 - (long paper accepted) "Prosodic Clustering via Cosine Similarity of Sound Sequence Inventories." DH 2017. Montreal. August 2017.
 
+- ["APIs, Web Scraping, and NLP."](https://github.com/henchc/CDIPS-2017-Scraping-NLP) [Career Development Initiative for the Physical Sciences](http://cdips.physics.berkeley.edu/). Berkeley, California. 29. June 2017.
+
+- ["APIs & Web Scraping."](https://www.youtube.com/watch?v=do5Bom0OdjQ&t) [Data on the Mind 2017 Workshop](http://www.dataonthemind.org/). Berkeley, California. 27. June 2017.
+
 - ["distant-reading den Zusammenhang zwischen Form und Inhalt in der mittelhochdeutschen Dichtung."](files/hench-stuttgart-2017.pdf) Universität Stuttgart. Stuttgart, Germany. 13. June 2017.
 
 - ["Klanglandschaften im Minnesang: Silbentrennung als Werkzeug zur Literaturanalyse."](files/hench-stuttgart-2016.pdf) Universität Stuttgart. Stuttgart, Germany. 30 June 2016.
