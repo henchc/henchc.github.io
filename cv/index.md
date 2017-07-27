@@ -22,6 +22,8 @@ German and Medieval Studies
 
 - **Middlebury College Language Schools** -- German Studies, 2009 - 2009
 
+
+
 <br><br>
 ### Awards
 
@@ -44,6 +46,8 @@ German and Medieval Studies
 - Highest Honors on German Senior Thesis, Middlebury College, 2011
 
 - Johannes Gutenberg-Universität Mainz, Middlebury College Scholarship, 2009 - 2010
+
+
 
 <br><br>
 ### Experience
@@ -113,18 +117,60 @@ Massachusetts Amherst -- September 2012 - May 2013
 
 
 <br><br>
-### Publications
+### Peer-Reviewed Publications
 
-- (forthcoming) "Alienated Bodies and the lîp/wîp Connection." International Journal for Germanic Linguistics and Semiotics, Fall 2016, vol. 2, 2016.
+- “[Phonological Soundscapes in Medieval Poetry](http://aclweb.org/anthology/W17-2207).”
+Proceedings of the Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature, ACL 2017, 2017, 46.
+
+- "Alienated Bodies and the lîp/wîp Connection." International Journal for Germanic Linguistics and Semiotics, Fall 2016, vol. 2, 2016.
+
+- With Estes, Alex. “[Supervised Machine Learning for Hybrid Meter](http://www.aclweb.org/anthology/W/W16/W16-0201.pdf).”
+Proceedings of the Fifth Workshop on Computational Linguistics for Literature, NAACL-HLT 2016, 2016, 1.
+
+
+
+<br><br>
+### Book Review
+
+- "[Kafka's Jewish Languages:  The Hidden Openness of Tradition](http://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1051&context=edge)," EDGE - A Graduate Journal for German and Scandinavian Studies: Vol. 3: Iss. 1, Article 6.
+
+
+
+<br><br>
+### Presentations
+
+- (long paper accepted) "Prosodic Clustering via Cosine Similarity of Sound Sequence Inventories." DH 2017. Montreal. August 2017.
+
+- ["APIs, Web Scraping, and NLP."](https://github.com/henchc/CDIPS-2017-Scraping-NLP) [Career Development Initiative for the Physical Sciences](http://cdips.physics.berkeley.edu/). Berkeley, California. 29. June 2017.
+
+- ["APIs & Web Scraping."](https://www.youtube.com/watch?v=do5Bom0OdjQ&t) [Data on the Mind 2017 Workshop](http://www.dataonthemind.org/). Berkeley, California. 27. June 2017.
+
+- ["distant-reading den Zusammenhang zwischen Form und Inhalt in der mittelhochdeutschen Dichtung."](files/hench-stuttgart-2017.pdf) Universität Stuttgart. Stuttgart, Germany. 13. June 2017.
+
+- ["Klanglandschaften im Minnesang: Silbentrennung als Werkzeug zur Literaturanalyse."](files/hench-stuttgart-2016.pdf) Universität Stuttgart. Stuttgart, Germany. 30 June 2016.
+
+- "The Value of the Body in Exchange." 51st International Congress on Medieval Studies. Kalamazoo, Michigan. 14 May 2016.
+
+- ["An Approach to the Sound of Minnesang."](files/hench-princeton-2016.pdf) International Graduate Colloquium on Medieval German Studies. Princeton, New Jersey. 15 April 2016.
+
+- ["Rethinking the Middle High German Syllable."](files/estes-hench-round-table-2016.pdf) Berkeley Germanic Linguistics Roundtable. Berkeley, California. 2 April 2016.
+
+- ["Text Analysis Beyond the Word."](files/estes-hench-dh-2016.pdf) DH at Berkeley Working Group. Berkeley, California. 12 February 2016.
+
+- "Static and Dynamic Representations of Language Barriers in MHG Epics." Barriers. Berkeley, California. 1 March 2015.
+
+- "(S)electing the Grail King." Medieval and Renaissance Forum. Plymouth, New Hampshire. 26 April 2014.
+
+
+
+<br><br>
+### Published Subtitles
 
 - Just Married (Grüne Hochzeit) (1988). Translation and subtitles. Amherst, MA:
 DEFA Film Library, 2016.
 
 - With Katrin Bahr, Swan Island (Insel der Schwäne) (1982). Translation and subtitles. Amherst, MA:
 DEFA Film Library, 2016.
-
-- With Estes, Alex. “[Supervised Machine Learning for Hybrid Meter](http://www.aclweb.org/anthology/W/W16/W16-0201.pdf).”
-Proceedings of the Fifth Workshop on Computational Linguistics for Literature, NAACL-HLT 2016, 2016, 1.
 
 - Arnold Zweig (1962). Translation and subtitles. In: Arts in Exile. Amherst, MA: DEFA Film Library, 2015.
 
@@ -198,34 +244,5 @@ subtitles. Amherst, MA: DEFA Film Library, 2013.
 
 - Newsreel 1956/29, A US Agent in the GDR (1956). In: For Eyes Only – Top Secret (For Eyes Only –
 Streng Geheim) (2013). Translation and subtitles. Amherst, MA: DEFA Film Library, 2013.
-
-- "[Kafka's Jewish Languages:  The Hidden Openness of Tradition](http://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1051&context=edge)," EDGE - A Graduate Journal for German and Scandinavian Studies: Vol. 3: Iss. 1, Article 6.
-
-
-
-<br><br>
-### Presentations
-
-- (long paper accepted) "Prosodic Clustering via Cosine Similarity of Sound Sequence Inventories." DH 2017. Montreal. August 2017.
-
-- ["APIs, Web Scraping, and NLP."](https://github.com/henchc/CDIPS-2017-Scraping-NLP) [Career Development Initiative for the Physical Sciences](http://cdips.physics.berkeley.edu/). Berkeley, California. 29. June 2017.
-
-- ["APIs & Web Scraping."](https://www.youtube.com/watch?v=do5Bom0OdjQ&t) [Data on the Mind 2017 Workshop](http://www.dataonthemind.org/). Berkeley, California. 27. June 2017.
-
-- ["distant-reading den Zusammenhang zwischen Form und Inhalt in der mittelhochdeutschen Dichtung."](files/hench-stuttgart-2017.pdf) Universität Stuttgart. Stuttgart, Germany. 13. June 2017.
-
-- ["Klanglandschaften im Minnesang: Silbentrennung als Werkzeug zur Literaturanalyse."](files/hench-stuttgart-2016.pdf) Universität Stuttgart. Stuttgart, Germany. 30 June 2016.
-
-- "The Value of the Body in Exchange." 51st International Congress on Medieval Studies. Kalamazoo, Michigan. 14 May 2016.
-
-- ["An Approach to the Sound of Minnesang."](files/hench-princeton-2016.pdf) International Graduate Colloquium on Medieval German Studies. Princeton, New Jersey. 15 April 2016.
-
-- ["Rethinking the Middle High German Syllable."](files/estes-hench-round-table-2016.pdf) Berkeley Germanic Linguistics Roundtable. Berkeley, California. 2 April 2016.
-
-- ["Text Analysis Beyond the Word."](files/estes-hench-dh-2016.pdf) DH at Berkeley Working Group. Berkeley, California. 12 February 2016.
-
-- "Static and Dynamic Representations of Language Barriers in MHG Epics." Barriers. Berkeley, California. 1 March 2015.
-
-- "(S)electing the Grail King." Medieval and Renaissance Forum. Plymouth, New Hampshire. 26 April 2014.
 
 
