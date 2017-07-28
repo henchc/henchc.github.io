@@ -25,7 +25,7 @@ German and Medieval Studies
 
 
 <br><br>
-### Awards
+### Awards & Fellowships
 
 - Data Science Fellow, BIDS, 2017 -
 
