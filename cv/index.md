@@ -27,13 +27,17 @@ German and Medieval Studies
 <br><br>
 ### Awards
 
-- DAAD Research Grant, Summer 2017
+- Data Science Fellow, BIDS, 2017 -
 
-- Max Kade Travel Grant, Summer 2016, 2017
+- DH Conference Travel Bursary, 2017
 
-- Graduate Division Summer Grant (UC Berkeley), Summer 2016
+- DAAD Research Grant, 2017
 
-- Graduate Assembly Travel Grant (UC Berkeley), Summer 2016
+- Max Kade Travel Grant, 2016, 2017
+
+- Graduate Division Summer Grant (UC Berkeley), 2016
+
+- Graduate Assembly Travel Grant (UC Berkeley), 2016
 
 - Digital Humanities Fellow (UC Berkeley), 2015
 
