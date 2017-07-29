@@ -126,7 +126,7 @@ Massachusetts Amherst -- September 2012 - May 2013
 - “[Phonological Soundscapes in Medieval Poetry](http://aclweb.org/anthology/W17-2207).”
 Proceedings of the Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature, ACL 2017, 2017, 46.
 
-- "Alienated Bodies and the lîp/wîp Connection." International Journal for Germanic Linguistics and Semiotics, Fall 2016, vol. 2, 2016.
+- "Alienated Bodies and the lîp/wîp Connection." Interdisciplinary Journal for Germanic Linguistics and Semiotic Analysis, Fall 2016, vol. 2, 2016.
 
 - With Estes, Alex. “[Supervised Machine Learning for Hybrid Meter](http://www.aclweb.org/anthology/W/W16/W16-0201.pdf).”
 Proceedings of the Fifth Workshop on Computational Linguistics for Literature, NAACL-HLT 2016, 2016, 1.
