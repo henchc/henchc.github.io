@@ -123,7 +123,9 @@ Massachusetts Amherst -- September 2012 - May 2013
 <br><br>
 ### Peer-Reviewed Publications
 
-- “[Phonological Soundscapes in Medieval Poetry](http://aclweb.org/anthology/W17-2207).”
+- "[Prosodic Clustering via Cosine Similarity of Sound Sequence Inventories](https://dh2017.adho.org/abstracts/141/141.pdf)." Proceedings of the Digital Humanities Conference, Montreal, 2017.
+
+- "[Phonological Soundscapes in Medieval Poetry](http://aclweb.org/anthology/W17-2207).”
 Proceedings of the Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature, ACL 2017, 2017, 46.
 
 - "Alienated Bodies and the lîp/wîp Connection." Interdisciplinary Journal for Germanic Linguistics and Semiotic Analysis, Fall 2016, vol. 2, 2016.
