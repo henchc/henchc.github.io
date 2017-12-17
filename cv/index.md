@@ -10,7 +10,7 @@ German and Medieval Studies
 <br><br>
 ### Education
 
-- **University of California, Berkeley** -- Doctor of Philosophy (Ph.D.), German Literature and Medieval Studies, 2014 -
+- **University of California, Berkeley** -- Doctor of Philosophy (Ph.D.), German Literature and Medieval Studies, 2014 - 2017
 
 - **University of Massachusetts, Amherst** -- Master of Arts (M.A.), German and Scandinavian Studies, 2012 - 2014
 
