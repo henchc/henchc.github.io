@@ -2,9 +2,7 @@
 layout: cv
 ---
 
-# Christopher Hench
-**PhD Candidate, University of California, Berkeley** <br>
-German and Medieval Studies
+# Christopher Hench, PhD
 
 
 <br><br>
