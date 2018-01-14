@@ -25,7 +25,9 @@ layout: cv
 <br><br>
 ### Awards & Fellowships
 
-- Data Science Fellow, BIDS, 2017 -
+- Postdoctoral Scholar, D-Lab, 2018 - Present
+
+- Data Science Fellow, BIDS, 2017 - Present
 
 - DH Conference Travel Bursary, 2017
 
@@ -54,15 +56,17 @@ layout: cv
 <br><br>
 ### Experience
 
-- Digital Humanities at Berkeley, Program Development Lead -- January 2017 - Present
+- Postdoctoral Scholar at UC Berkeley's D-Lab -- January 2018 - Present
 
-- D-Lab at Berkeley, Python Lead Instructor and Consultant -- January 2016 - Present
+- Digital Humanities at Berkeley, Program Development Lead -- January 2017 - December 2017
 
-- Graduate Student Assistant for Medieval Studies at UC Berkeley -- June 2015 - Present
+- D-Lab at Berkeley, Python Lead Instructor and Consultant -- January 2016 - December 2017
 
-- Webmaster (German Department) at UC Berkeley -- September 2014 - Present
+- Graduate Student Assistant for Medieval Studies at UC Berkeley -- June 2015 - August 2017
 
-- Translator/Film Subtitler at Freelance -- May 2014 - Present
+- Webmaster (German Department) at UC Berkeley -- September 2014 - August 2017
+
+- Translator/Film Subtitler at Freelance -- May 2014 - December 2017
 
 - Graduate Student Instructor (German) at UC Berkeley -- August 2015 - May 2017
 
