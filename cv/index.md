@@ -137,7 +137,7 @@ Proceedings of the Fifth Workshop on Computational Linguistics for Literature, N
 
 ### Online Course
 
-- *[An Introduction to Applied Data Science for Social Scientists](https://campus.sagepub.com/#course-list)*. SAGE Publications. 2017.
+- *[An Introduction to Applied Data Science for Social Scientists](https://campus.sagepub.com/introduction-to-applied-data-science-methods-for-social-scientists)*. SAGE Publications. 2017.
 
 <br><br>
 ### Book Review
