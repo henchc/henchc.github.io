@@ -25,8 +25,6 @@ layout: cv
 <br><br>
 ### Awards & Fellowships
 
-- Postdoctoral Scholar, D-Lab, 2018 - Present
-
 - Data Science Fellow, BIDS, 2017 - Present
 
 - DH Conference Travel Bursary, 2017
@@ -56,7 +54,7 @@ layout: cv
 <br><br>
 ### Experience
 
-- Postdoctoral Scholar at UC Berkeley's D-Lab -- January 2018 - Present
+- Postdoctoral Researcher at UC Berkeley's D-Lab -- January 2018 - Present
 
 - Digital Humanities at Berkeley, Program Development Lead -- January 2017 - December 2017
 
@@ -135,7 +133,11 @@ Proceedings of the Joint SIGHUM Workshop on Computational Linguistics for Cultur
 - With Estes, Alex. “[Supervised Machine Learning for Hybrid Meter](http://www.aclweb.org/anthology/W/W16/W16-0201.pdf).”
 Proceedings of the Fifth Workshop on Computational Linguistics for Literature, NAACL-HLT 2016, 2016, 1.
 
+<br><br>
 
+### Online Course
+
+- *[An Introduction to Applied Data Science for Social Scientists](https://campus.sagepub.com/#course-list)*. SAGE Publications. 2017.
 
 <br><br>
 ### Book Review
@@ -252,5 +254,3 @@ subtitles. Amherst, MA: DEFA Film Library, 2013.
 
 - Newsreel 1956/29, A US Agent in the GDR (1956). In: For Eyes Only – Top Secret (For Eyes Only –
 Streng Geheim) (2013). Translation and subtitles. Amherst, MA: DEFA Film Library, 2013.
-
-
